@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -iname "*.vbs" | xargs sed -i '46a WshNetwork.MapNetworkDrive "V:", strVIS' 

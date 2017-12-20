@@ -1,0 +1,26 @@
+-rwsr-xr-x 1 root root 30800 May 15  2015 /bin/fusermount
+-rwsr-xr-x 1 root root 94792 Nov 23  2016 /bin/mount
+-rwsr-xr-x 1 root root 44168 May  7  2014 /bin/ping
+-rwsr-xr-x 1 root root 44680 May  7  2014 /bin/ping6
+-rwsr-xr-x 1 root root 36936 May 16  2017 /bin/su
+-rwsr-xr-x 1 root root 69120 Nov 23  2016 /bin/umount
+total 16
+-rw-r--r-- 1 root root 3954 Sep 15 11:13 bind.keys
+-rw-r--r-- 1 root root  237 Jun 29 09:22 db.0
+-rw-r--r-- 1 root root  271 Jun 29 09:22 db.127
+-rw-r--r-- 1 root root  237 Jun 29 09:22 db.255
+-rw-r--r-- 1 root root  353 Jun 29 09:22 db.empty
+-rw-r--r-- 1 root root  270 Jun 29 09:22 db.local
+-rw-r--r-- 1 root root 3048 Jun 29 09:22 db.root
+-rw-r--r-- 1 root bind  463 Jun 29 09:22 named.conf
+-rw-r--r-- 1 root bind  490 Jun 29 09:22 named.conf.default-zones
+-rw-r--r-- 1 root bind  165 Jun 29 09:22 named.conf.local
+-rw-r--r-- 1 root bind  890 Aug 25 09:32 named.conf.options
+-rw-r----- 1 bind bind   77 Aug 25 09:32 rndc.key
+-rw-r--r-- 1 root root 1317 Jun 29 09:22 zones.rfc1918
+total 12
+-rw-r--r-- 1 root root 950 Apr 21  2015 gprs
+-rw-r--r-- 1 root root 653 Apr 21  2015 pap
+-rw-r----- 1 root dip  656 Mar 30  2017 provider
+total 4
+-rw-r----- 1 root dip 1093 Mar 30  2017 provider
